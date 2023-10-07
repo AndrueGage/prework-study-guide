@@ -19,7 +19,7 @@ Provide an introduction to your project. Explain what it is, why it's important,
 
 List the key features or functionalities of your project.
 
-- Feature 1: Describe the first feature.
+- Feature 1: Describe the first feature. 
 - Feature 2: Describe the second feature.
 - Feature 3: Describe the third feature.
 
