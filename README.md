@@ -1,60 +1,44 @@
-# prework-study-guide
+# Prework Study Guide Webpage
 
-A brief description of your project goes here.
+## Description
+
+This is a prework study guide for aspiring developers who are preparing for a coding bootcamp course. I built this project to better prepare myself for the upcoming course I will be taking. While working on this project, I was exposed to JavaScript for the first time and learned the fundamentals of web development.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
 
-## Introduction
+## Credits
 
-Provide an introduction to your project. Explain what it is, why it's important, and who it's for.
+I want to acknowledge the following collaborators for their contributions to this project:
 
-## Features
-
-List the key features or functionalities of your project.
-
-- Feature 1: Describe the first feature. 
-- Feature 2: Describe the second feature.
-- Feature 3: Describe the third feature.
-
-## Getting Started
-
-Provide instructions on how to get started with your project. Include any prerequisites or setup required. For example:
-
-1. Install XYZ software.
-2. Clone this repository: `git clone https://github.com/yourusername/yourproject.git`
-3. Navigate to the project directory: `cd yourproject`
-
-## Usage
-
-Explain how to use your project. Provide examples or screenshots if applicable. This section is where you guide users on how to make the most of your project.
-
-## Contributing
-
-Tell others how they can contribute to your project. Include guidelines for reporting issues, submitting feature requests, or contributing code. For example:
-
-- Report bugs or suggest features by opening an [issue](https://github.com/yourusername/yourproject/issues).
-- Fork the repository and submit a pull request.
+- [Dallas Yatsinko](https://github.com/okni-c) - Provided guidance on JavaScript, HTML and CSS development.
 
 ## License
 
-Specify the license under which your project is distributed. For example, if it's open-source, you can use the MIT License:
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, modify, and distribute this project as long as you provide proper attribution and include the original license in your distribution.
 
+## Badges
 
-## Acknowledgments
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-If your project uses third-party libraries, tools, or resources, acknowledge them here.
+## Features
 
-## Contact
+This study guide webpage includes the following features:
 
-Provide a way for users to contact you or your team for questions or feedback. You can include email addresses, social media profiles, or links to a dedicated support page.
+- A comprehensive list of topics to study for the coding bootcamp.
+- Interactive coding challenges and exercises.
 
----
+## How to Contribute
 
-Feel free to customize this README template to fit your project's specific needs. Good luck with your project! 🚀
+If you would like to contribute to this study guide webpage, please follow these guidelines:
+
+1. Fork the repository to your own GitHub account.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they are well-documented.
+4. Test your changes to ensure they work as expected.
+5. Submit a pull request with a clear description of your changes.
